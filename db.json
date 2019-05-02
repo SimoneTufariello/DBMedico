@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "nome": "simo",
+      "cognome": "tuffa",
+      "indirizzo": "novate",
+      "telefono": "11111111111",
+      "dataPrenot": "hello",
+      "oraPrenot": "hello",
+    },
+    {
+      "id": 2,
+      "nome": "matteo",
+      "cognome": "branca",
+      "indirizzo": "milano",
+      "telefono": "22222222222",
+      "dataPrenot": "hello",
+      "oraPrenot": "hello",
+    },
+    {
+      "id": 3,
+      "nome": "luca",
+      "cognome": "milaz",
+      "indirizzo": "nova",
+      "telefono": "3333333333",
+      "dataPrenot": "hello",
+      "oraPrenot": "hello",
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
