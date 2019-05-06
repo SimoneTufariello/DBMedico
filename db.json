@@ -27,8 +27,5 @@
       "dataPrenot": "hello",
       "oraPrenot": "hello",
     }
-  ],
-  "profile": {
-    "name": "DB"
-  }
+  ]
 }
