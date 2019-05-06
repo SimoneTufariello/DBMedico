@@ -7,7 +7,7 @@
       "indirizzo": "novate",
       "telefono": "11111111111",
       "dataPrenot": "hello",
-      "oraPrenot": "hello",
+      "oraPrenot": "hello"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "indirizzo": "milano",
       "telefono": "22222222222",
       "dataPrenot": "hello",
-      "oraPrenot": "hello",
+      "oraPrenot": "hello"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "indirizzo": "nova",
       "telefono": "3333333333",
       "dataPrenot": "hello",
-      "oraPrenot": "hello",
+      "oraPrenot": "hello"
     }
   ]
 }
