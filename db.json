@@ -6,8 +6,8 @@
       "cognome": "tuffa",
       "indirizzo": "novate",
       "telefono": "11111111111",
-      "dataPrenot": "hello",
-      "oraPrenot": "hello"
+      "dataPrenot": "2018-03-10",
+      "oraPrenot": "14:00"
     },
     {
       "id": 2,
@@ -15,8 +15,8 @@
       "cognome": "branca",
       "indirizzo": "milano",
       "telefono": "22222222222",
-      "dataPrenot": "hello",
-      "oraPrenot": "hello"
+      "dataPrenot": "2019-01-25",
+      "oraPrenot": "08:30"
     },
     {
       "id": 3,
@@ -24,8 +24,8 @@
       "cognome": "milaz",
       "indirizzo": "nova",
       "telefono": "3333333333",
-      "dataPrenot": "hello",
-      "oraPrenot": "hello"
+      "dataPrenot": "2019-06-08",
+      "oraPrenot": "12:00"
     }
   ]
 }
